@@ -1,0 +1,44 @@
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\ApiFilmes.exe
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\ApiFilmes.deps.json
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\ApiFilmes.runtimeconfig.json
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\ApiFilmes.runtimeconfig.dev.json
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\ApiFilmes.dll
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\ApiFilmes.pdb
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\TMDbLib.dll
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\TMDbLib.pdb
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.csprojAssemblyReference.cache
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\staticwebassets\ApiFilmes.StaticWebAssets.Manifest.cache
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\staticwebassets\ApiFilmes.StaticWebAssets.xml
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.AssemblyInfoInputs.cache
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.AssemblyInfo.cs
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.RazorTargetAssemblyInfo.cache
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.csproj.CopyComplete
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.dll
+C:\Users\rubens.gomes\Desktop\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.pdb
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\ApiFilmes.exe
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\ApiFilmes.deps.json
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\ApiFilmes.runtimeconfig.json
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\ApiFilmes.runtimeconfig.dev.json
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\ApiFilmes.dll
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\ApiFilmes.pdb
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.csprojAssemblyReference.cache
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.csproj.CoreCompileInputs.cache
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.AssemblyInfoInputs.cache
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.AssemblyInfo.cs
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.RazorTargetAssemblyInfo.cache
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.csproj.CopyComplete
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\staticwebassets\ApiFilmes.StaticWebAssets.Manifest.cache
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\staticwebassets\ApiFilmes.StaticWebAssets.xml
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.dll
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.pdb
+C:\Users\rubens gomes\Desktop\ApiFilmes\ApiFilmes\ApiFilmes\obj\Debug\netcoreapp3.0\ApiFilmes.genruntimeconfig.cache

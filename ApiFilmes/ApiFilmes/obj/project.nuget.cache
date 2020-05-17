@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "D3wYSgiICl2yU47hQxnTu7qW3LmiK25q7D5826+9PVl3qbh8bFZ9OMHseTXPrLJPn0psRUPflnTnknNefwmP+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rubens gomes\\Desktop\\ApiFilmes\\ApiFilmes\\ApiFilmes\\ApiFilmes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rubens gomes\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\rubens gomes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\rubens gomes\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\rubens gomes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\rubens gomes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
